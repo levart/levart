@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👯 I’m looking to collaborate on any open source project
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/levart) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=levart&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/levart) 
