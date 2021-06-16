@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/levart) 
 
-[<img src='https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg' alt='github' height='18'>]
+<img src='https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg' alt='github' height='32'>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=levart&show_icons=true)  
 
