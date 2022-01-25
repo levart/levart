@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg' alt='postgresql' height='52'>](https://www.postgresql.org) 
 [<img src='https://developer.asustor.com/uploadIcons/0020_999_1579585068_mongo-express-256.png' alt='mongodb' height='52'>](https://www.mongodb.com) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=levart&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=levart&theme=onedark&margin-w=15&margin-h=15&column=7)](https://github.com/levart)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=levart&show_icons=true&layout=compact&theme=onedark&) 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asyncfinkd&layout=compact&theme=onedark&langs_count=15) 
+
+
 
 ![Profile views](https://gpvc.arturio.dev/levart) 
