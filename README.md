@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=levart&show_icons=true&layout=compact&theme=onedark&) 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asyncfinkd&layout=compact&theme=onedark&langs_count=15) 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levart&layout=compact&theme=onedark&langs_count=15) 
 
 
 
