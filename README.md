@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 
 
 ![Profile views](https://gpvc.arturio.dev/levart) 
+[![wakatime](https://wakatime.com/badge/user/ac305be1-11ec-43d4-9272-47286799d810.svg)](https://wakatime.com/@ac305be1-11ec-43d4-9272-47286799d810)
