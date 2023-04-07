@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on any open source project
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/levan-jmukhadze)
+&nbsp; 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/levart) 
 
 [<img src='https://assets.zabbix.com/img/brands/nodejs.svg' alt='nestjs' height='52'>](https://nodejs.org/en/) 
@@ -30,7 +32,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=levart&show_icons=true&layout=compact&theme=onedark&) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levart&layout=compact&theme=onedark&langs_count=15) 
-
 
 
 ![Profile views](https://gpvc.arturio.dev/levart) 
