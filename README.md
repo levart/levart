@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levart&layout=compact&theme=onedark&langs_count=15) 
 
 
-![Profile views](https://gpvc.arturio.dev/levart) 
 [![wakatime](https://wakatime.com/badge/user/ac305be1-11ec-43d4-9272-47286799d810.svg)](https://wakatime.com/@ac305be1-11ec-43d4-9272-47286799d810)
