@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on any open source project
 
-[![committers.top badge](https://user-badge.committers.top/georgia_private/levart.svg)](https://user-badge.committers.top/georgia_private/levart)
+[![committers.top badge](https://user-badge.committers.top/georgia_private/levart.svg)](https://user-badge.committers.top/georgia_private/levart) [![wakatime](https://wakatime.com/badge/user/ac305be1-11ec-43d4-9272-47286799d810.svg)](https://wakatime.com/@ac305be1-11ec-43d4-9272-47286799d810)
 
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/levan-jmukhadze)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levan-jmukhadze)
 &nbsp; 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/levart) 
 
@@ -38,4 +39,3 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levart&layout=compact&theme=onedark&langs_count=15) 
 
 
-[![wakatime](https://wakatime.com/badge/user/ac305be1-11ec-43d4-9272-47286799d810.svg)](https://wakatime.com/@ac305be1-11ec-43d4-9272-47286799d810)
