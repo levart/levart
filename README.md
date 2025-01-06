@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=levart&theme=onedark&margin-w=15&margin-h=15&column=7)](https://github.com/levart)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=levart&show_icons=true&layout=compact&theme=onedark&) 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levart&layout=compact&theme=onedark&langs_count=15) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=levart&show_icons=true&layout=compact&theme=dark&) 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=levart&layout=compact&theme=dark&langs_count=8) 
 
 
