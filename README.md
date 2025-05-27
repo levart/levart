@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 ## 📈 GitHub Stats
 
 ![Levart's GitHub stats](https://github-readme-stats.vercel.app/api?username=levart&show_icons=true&theme=radical)
+![Levart's GitHub stats](https://streak-stats.demolab.com/?user=levart&theme=tokyonight)
 
 
 ## 🔗 Connect with Me
